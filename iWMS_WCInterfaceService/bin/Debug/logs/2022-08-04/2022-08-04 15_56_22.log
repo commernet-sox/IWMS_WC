@@ -1,0 +1,4 @@
+2022-08-04 15:56:22.0732 ERROR  111 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+
+2022-08-04 15:58:14.9592 ERROR  物料:[WC001],库存验证失败,请刷新后重试!  WCP2PTask.YKTask => NLogUtil.WriteError => NLogImpl.WriteError
+

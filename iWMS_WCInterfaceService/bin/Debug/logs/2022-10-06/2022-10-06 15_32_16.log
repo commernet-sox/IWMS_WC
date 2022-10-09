@@ -1,0 +1,21 @@
+2022-10-06 15:32:16.3321 ERROR  2209200000005 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-06 15:32:20.8888 ERROR  2209200000006 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-06 15:32:24.2288 ERROR  2209200000008 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-06 15:32:26.1302 ERROR  2209200000009 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-06 15:32:27.8566 ERROR  2209210000014 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-06 15:34:11.3414 ERROR  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.P2PFHTask(List`1 FHList, DataTable sLocationtable, DataTable eLocationtable, Boolean IsCompleted, String DeliveryId, Boolean CheckMappingLoc) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 482
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.P2PTask() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 159
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 68  WCP2PTask.Execute => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

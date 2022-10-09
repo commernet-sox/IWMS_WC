@@ -1,0 +1,5 @@
+2022-09-27 17:38:10.5821 ERROR  System.InvalidCastException: 无法将类型为“Grouping[System.String,System.Data.DataRow]”的对象强制转换为类型“System.Data.DataRow”。
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.M2PTask() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 213
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 69  WCP2PTask.Execute => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

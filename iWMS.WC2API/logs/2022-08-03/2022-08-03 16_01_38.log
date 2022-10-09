@@ -1,0 +1,27 @@
+2022-08-03 16:01:38.9567 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-08-03 16:01:54.1310 INFO  [
+    {
+        "InputSerial": "111",
+        "Appliance": "111",
+        "FeedingPointCode": "111",
+        "FeedingPointName": "111",
+        "Status": "1",
+        "ProductLineCode": "111",
+        "ProductLineName": "111",
+        "PlanDate": "2022-08-03 12:00:00",
+        "WaveNum": "111",
+        "BatchNum": "111",
+        "MaterialCode": "111",
+        "MaterialName": "111",
+        "Quantity": "111",
+        "StationCode": "111",
+        "StationName": "111",
+        "PullNumber": "111",
+        "LotNumber": "111",
+        "VendorNumber": "111",
+        "UtensilTypeCode": "111",
+        "InputSerialDetail": "111"
+    }
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+

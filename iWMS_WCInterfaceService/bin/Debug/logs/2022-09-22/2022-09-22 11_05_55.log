@@ -1,0 +1,10 @@
+2022-09-22 11:05:55.1788 ERROR  System.Configuration.Install.InstallException: 在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。 ---> System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+   在 System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly, Boolean wantToCreate)
+   在 System.Diagnostics.EventLog.SourceExists(String source, String machineName, Boolean wantToCreate)
+   在 System.Diagnostics.EventLogInstaller.Uninstall(IDictionary savedState)
+   在 System.Configuration.Install.Installer.Uninstall(IDictionary savedState)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.Install.ManagedInstallerClass.InstallHelper(String[] args)
+   在 iWMS.WCInterfaceService.SystemInstaller.UnInstall() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS_WCInterfaceService\SystemInstaller.cs:行号 34  SystemInstaller.UnInstall => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

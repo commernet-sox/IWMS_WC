@@ -1,0 +1,13 @@
+2022-08-10 10:40:04.9012 ERROR  111 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+
+2022-08-10 10:40:12.4537 ERROR  System.Data.NoNullAllowedException: 列“FromLoc”不允许 nulls。
+   在 System.Data.DataColumn.CheckNullable(DataRow row)
+   在 System.Data.DataTable.RaiseRowChanging(DataRowChangeEventArgs args, DataRow eRow, DataRowAction eAction, Boolean fireEvent)
+   在 System.Data.DataTable.SetNewRecordWorker(DataRow row, Int32 proposedRecord, DataRowAction action, Boolean isInMerge, Boolean suppressEnsurePropertyChanged, Int32 position, Boolean fireEvent, Exception& deferredException)
+   在 System.Data.DataTable.InsertRow(DataRow row, Int64 proposedID, Int32 pos, Boolean fireEvent)
+   在 System.Data.DataRowCollection.Add(DataRow row)
+   在 iWMS.TypedData.T_WRM_MoveLocData.WRM_MoveLocDetailDataTable.AddWRM_MoveLocDetailRow(WRM_MoveLocDetailRow row) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS\iWMS.TypedData\T_WRM_MoveLocData.Designer.cs:行号 1042
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.YKTask(List`1 YKList, DataTable Locationtable, Boolean IsCompleted) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 278
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.P2PTask() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 98
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 34  WCP2PTask.Execute => NLogUtil.WriteError => NLogImpl.WriteError
+

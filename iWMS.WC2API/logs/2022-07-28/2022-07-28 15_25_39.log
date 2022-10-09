@@ -1,0 +1,10 @@
+2022-07-28 15:25:39.4051 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-07-28 15:26:00.9356 ERROR  LogException  <ExecuteExceptionFilterAsyncCore>d__3.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => LogExceptionFilterAttribute.OnException
+
+2022-07-28 15:27:01.5096 ERROR  LogException  <ExecuteExceptionFilterAsyncCore>d__3.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => LogExceptionFilterAttribute.OnException
+
+2022-07-28 15:27:02.8077 ERROR  LogException  <ExecuteExceptionFilterAsyncCore>d__3.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => LogExceptionFilterAttribute.OnException
+
+2022-07-28 15:27:36.4708 ERROR  LogException  <ExecuteExceptionFilterAsyncCore>d__3.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => LogExceptionFilterAttribute.OnException
+

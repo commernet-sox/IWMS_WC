@@ -1,0 +1,14 @@
+2022-09-06 09:29:29.8864 ERROR  System.InvalidOperationException: 安装失败，已执行回退。 ---> System.InvalidOperationException: 无法打开计算机“.”上的服务控制管理器。此操作可能需要其他特权。 ---> System.ComponentModel.Win32Exception: 拒绝访问。
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ServiceProcess.ServiceInstaller.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.Installer.Install(IDictionary stateSaver)
+   在 System.ServiceProcess.ServiceProcessInstaller.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.Installer.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.Installer.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.AssemblyInstaller.Install(IDictionary savedState)
+   在 System.Configuration.Install.Installer.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.TransactedInstaller.Install(IDictionary savedState)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.Install.ManagedInstallerClass.InstallHelper(String[] args)
+   在 iWMS.WCInterfaceService.SystemInstaller.Install() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS_WCInterfaceService\SystemInstaller.cs:行号 19  SystemInstaller.Install => NLogUtil.WriteError => NLogImpl.WriteError
+

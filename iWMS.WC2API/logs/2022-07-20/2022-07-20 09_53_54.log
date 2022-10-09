@@ -1,0 +1,90 @@
+2022-07-20 09:53:54.8005 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-07-20 09:53:59.5925 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:10.6706 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:25.3008 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:25.3008 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:26.4806 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:26.4806 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:27.0952 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:27.0952 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:27.5154 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:27.5154 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:28.6679 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:28.6679 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:29.3505 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:29.3505 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:30.2103 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:30.2103 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:30.6747 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:30.6747 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:31.3276 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:31.3276 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-20 09:54:59.1678 INFO  {
+"Id":123,
+"Message":"msg_ok",
+"Name":"na_sp"
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-20 09:54:59.1678 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":123,"Name":"na_sp"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+

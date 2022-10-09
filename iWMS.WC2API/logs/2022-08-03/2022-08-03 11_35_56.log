@@ -1,0 +1,55 @@
+2022-08-03 13:35:09.8415 INFO    AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:35:09.8415 INFO  {"code":"500","message":"数据列表为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 13:37:40.8297 INFO  [{"TaskId":"","ProductCode":"111","ProductLineCode":"111","OperationCode":"111","StationTime":"2022-08-03 12:00:00","SendTime":"2022-08-03 11:00:00"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:37:40.8297 INFO  {"code":"500","message":"任务号不能为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 13:37:45.3046 INFO  [{"TaskId":"111","ProductCode":"111","ProductLineCode":"111","OperationCode":"111","StationTime":"2022-08-03 12:00:00","SendTime":"2022-08-03 11:00:00"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:37:45.4440 INFO  {"code":"200","message":"","flag":"success"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 13:38:08.1858 INFO  [{"TaskId":"111","ProductCode":"222","ProductLineCode":"111","OperationCode":"111","StationTime":"2022-08-03 12:00:00","SendTime":"2022-08-03 11:00:00"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:38:08.2292 INFO  {"code":"200","message":"","flag":"success"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 13:42:26.2628 INFO    AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:42:26.2628 INFO  {"code":"500","message":"数据列表为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 13:44:32.7844 INFO  [
+    {
+        "TaskId": "",
+        "ProductLineCode": "111",
+        "OperationCode": "111",
+        "LocationId": "111",
+        "PalletId": "111"
+    }
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:44:32.7844 INFO  {"code":"500","message":"任务号不能为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 13:44:36.4799 INFO  [
+    {
+        "TaskId": "111",
+        "ProductLineCode": "111",
+        "OperationCode": "111",
+        "LocationId": "111",
+        "PalletId": "111"
+    }
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:44:36.5950 INFO  {"code":"200","message":"","flag":"success"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 13:50:26.3861 INFO  [
+    {
+        "TaskId": "111",
+        "ProductLineCode": "111",
+        "OperationCode": "111",
+        "LocationId": "111"
+    }
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 13:50:26.4221 INFO  {"code":"500","message":"参数错误，未找到拉动条码","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+

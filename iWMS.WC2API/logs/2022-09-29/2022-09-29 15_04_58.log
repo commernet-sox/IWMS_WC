@@ -1,0 +1,6 @@
+2022-09-29 15:04:58.2076 INFO  Application_Start  UniversalApplication.Start => NLogUtil.WriteInfo => NLogImpl.WriteInfo
+exception:
+
+2022-09-29 15:07:57.6901 INFO  Application_End  UniversalApplication.End => NLogUtil.WriteInfo => NLogImpl.WriteInfo
+exception:
+

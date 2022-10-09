@@ -1,0 +1,6 @@
+2022-08-03 11:12:50.0759 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-08-03 11:12:53.1540 INFO    AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:12:53.2464 INFO  {"code":"500","message":"数据列表为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+

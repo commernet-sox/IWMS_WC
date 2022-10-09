@@ -1,0 +1,14 @@
+2022-08-08 17:17:50.3949 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-08-08 17:19:00.9560 INFO  [
+{
+    "code":"12"
+},
+{
+    "code":"12333"
+    
+}
+    
+    
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+

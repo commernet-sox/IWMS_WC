@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publishs\WC2API</_PublishTargetUrl>
+    <History>True|2022-10-09T06:12:26.8841267Z;True|2022-10-05T16:48:34.3578373+08:00;True|2022-09-29T13:56:42.7844654+08:00;True|2022-09-28T15:32:59.9042916+08:00;True|2022-09-24T13:28:47.2362117+08:00;True|2022-09-21T09:20:41.3138640+08:00;False|2022-09-21T09:07:47.9177685+08:00;True|2022-09-15T15:50:24.1677191+08:00;True|2022-09-09T14:35:11.3331574+08:00;True|2022-09-08T14:27:19.7476262+08:00;True|2022-09-08T10:21:13.6302575+08:00;True|2022-09-07T15:06:39.4611975+08:00;True|2022-09-06T16:26:14.9154948+08:00;True|2022-09-06T15:21:00.5772826+08:00;True|2022-09-06T09:25:36.1613262+08:00;True|2022-09-05T10:25:02.8844327+08:00;True|2022-09-05T10:16:59.5057221+08:00;True|2022-09-03T14:19:46.6499372+08:00;True|2022-09-02T14:42:05.2938933+08:00;True|2022-09-01T11:05:21.0365529+08:00;True|2022-09-01T10:51:50.9016105+08:00;True|2022-08-31T15:36:01.3385092+08:00;True|2022-08-25T15:12:44.1850325+08:00;False|2022-08-25T15:11:09.4983653+08:00;True|2022-08-17T14:30:03.6922742+08:00;True|2022-08-17T14:29:37.0948088+08:00;True|2022-08-17T11:37:41.9978574+08:00;False|2022-08-17T11:31:55.4707012+08:00;False|2022-08-17T11:31:47.1431299+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="b.config">
+      <publishTime>09/16/2022 09:08:36</publishTime>
+    </File>
+    <File Include="bin/b.config">
+      <publishTime>09/16/2022 09:08:36</publishTime>
+    </File>
+    <File Include="bin/Common.DBCore.dll">
+      <publishTime>08/17/2022 11:31:34</publishTime>
+    </File>
+    <File Include="bin/Common.DBCore.pdb">
+      <publishTime>08/17/2022 11:31:34</publishTime>
+    </File>
+    <File Include="bin/Common.ISource.dll">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/Common.ISource.pdb">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/Common.Source.dll">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/Common.Source.pdb">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:18</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Sparkline.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Utils.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraBars.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:25</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraEditors.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:26</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v18.2.dll">
+      <publishTime>08/12/2022 13:39:18</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Pdf.v18.2.Core.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Printing.v18.2.Core.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Sparkline.v18.2.Core.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Utils.v18.2.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraBars.v18.2.dll">
+      <publishTime>08/12/2022 13:39:25</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraEditors.v18.2.dll">
+      <publishTime>08/12/2022 13:39:26</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:18</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Sparkline.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Utils.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraBars.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:25</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraEditors.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:26</publishTime>
+    </File>
+    <File Include="bin/FWCore.Common.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/FWCore.Config.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/FWCore.DbComponent.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/FWCore.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/FWCore.LiteDBCore.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/FWCore.Redis.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/iWMS.APILog.dll">
+      <publishTime>10/09/2022 14:12:24</publishTime>
+    </File>
+    <File Include="bin/iWMS.APILog.pdb">
+      <publishTime>10/09/2022 14:12:24</publishTime>
+    </File>
+    <File Include="bin/iWMS.Core.dll">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/iWMS.Core.pdb">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/iWMS.Entity.dll">
+      <publishTime>09/15/2022 15:50:16</publishTime>
+    </File>
+    <File Include="bin/iWMS.Entity.pdb">
+      <publishTime>09/15/2022 15:50:16</publishTime>
+    </File>
+    <File Include="bin/iWMS.ISource.dll">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/iWMS.ISource.pdb">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/iWMS.Source.dll">
+      <publishTime>10/09/2022 14:12:24</publishTime>
+    </File>
+    <File Include="bin/iWMS.Source.pdb">
+      <publishTime>10/09/2022 14:12:24</publishTime>
+    </File>
+    <File Include="bin/iWMS.TypedData.dll">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/iWMS.TypedData.dll.config">
+      <publishTime>09/26/2022 10:15:10</publishTime>
+    </File>
+    <File Include="bin/iWMS.TypedData.pdb">
+      <publishTime>10/09/2022 14:12:23</publishTime>
+    </File>
+    <File Include="bin/iWMS.WC2API.dll">
+      <publishTime>10/09/2022 14:12:25</publishTime>
+    </File>
+    <File Include="bin/iWMS.WC2API.pdb">
+      <publishTime>10/09/2022 14:12:25</publishTime>
+    </File>
+    <File Include="bin/iWMS.WebApplication.dll">
+      <publishTime>10/09/2022 14:12:24</publishTime>
+    </File>
+    <File Include="bin/iWMS.WebApplication.pdb">
+      <publishTime>10/09/2022 14:12:24</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:18</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Sparkline.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Utils.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraBars.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:25</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraEditors.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:26</publishTime>
+    </File>
+    <File Include="bin/LiteDB.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>07/31/2022 20:46:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Logging.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Configuration.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>07/31/2022 20:46:09</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/18/2021 04:03:36</publishTime>
+    </File>
+    <File Include="bin/NLog.config">
+      <publishTime>08/30/2022 13:55:21</publishTime>
+    </File>
+    <File Include="bin/NLog.dll">
+      <publishTime>09/02/2022 05:27:16</publishTime>
+    </File>
+    <File Include="bin/NLog.Web.dll">
+      <publishTime>07/19/2022 03:28:10</publishTime>
+    </File>
+    <File Include="bin/Pipelines.Sockets.Unofficial.dll">
+      <publishTime>07/31/2022 20:46:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 20:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 20:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 20:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 20:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 20:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 17:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 17:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 20:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 20:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/06/2016 02:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/06/2016 02:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 11:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/06/2016 02:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/06/2016 02:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/06/2016 02:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/06/2016 02:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/06/2016 02:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/06/2016 02:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/06/2016 02:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/06/2016 02:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/06/2016 02:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/06/2016 02:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/06/2016 02:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 11:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/06/2016 02:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/06/2016 02:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/06/2016 02:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/06/2016 02:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/06/2016 02:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/06/2016 02:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/06/2016 02:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/06/2016 02:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/06/2016 02:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/06/2016 02:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/06/2016 02:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/06/2016 02:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 20:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 20:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 13:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 20:18:16</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Data.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:18</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Pdf.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Printing.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Sparkline.v18.2.Core.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Utils.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:23</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraBars.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:25</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraEditors.v18.2.resources.dll">
+      <publishTime>08/12/2022 13:39:26</publishTime>
+    </File>
+    <File Include="bin/StackExchange.Redis.dll">
+      <publishTime>07/31/2022 20:46:50</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>07/31/2022 20:46:52</publishTime>
+    </File>
+    <File Include="bin/System.IO.Pipelines.dll">
+      <publishTime>07/31/2022 20:46:53</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>07/31/2022 20:46:53</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>05/28/2022 07:41:34</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>07/31/2022 20:46:53</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>07/31/2022 20:46:53</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Channels.dll">
+      <publishTime>07/31/2022 20:46:53</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>07/31/2022 20:46:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>05/28/2022 07:41:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>05/28/2022 07:41:54</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/31/2022 20:47:00</publishTime>
+    </File>
+    <File Include="NLog.config">
+      <publishTime>08/30/2022 13:55:21</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/09/2022 14:12:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

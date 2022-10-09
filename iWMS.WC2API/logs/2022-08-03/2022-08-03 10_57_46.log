@@ -1,0 +1,8 @@
+2022-08-03 11:05:37.6674 INFO    AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:05:37.6674 INFO  {"code":"400","message":"customerId 无效","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 11:05:59.3572 INFO    AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:05:59.3572 INFO  {"code":"400","message":"customerId 无效","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+

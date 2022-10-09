@@ -1,0 +1,4 @@
+2022-07-26 09:33:36.1475 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-07-26 09:33:44.2661 ERROR  Application_Error  HttpApplication.RecordError => HttpApplication.RaiseOnError => Global.Application_Error
+

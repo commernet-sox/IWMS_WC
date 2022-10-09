@@ -1,0 +1,22 @@
+2022-08-04 10:20:24.7968 ERROR  Microsoft.Practices.Unity.ResolutionFailedException: Resolution of the dependency failed, type = "Common.ISource.ISource_SQLHelper", name = "LANDIRECT".
+Exception occurred while: while resolving.
+Exception is: InvalidOperationException - The current type, Common.ISource.ISource_SQLHelper, is an interface and cannot be constructed. Are you missing a type mapping?
+-----------------------------------------------
+At the time of the exception, the container was:
+
+  Resolving Common.ISource.ISource_SQLHelper,LANDIRECT
+ ---> System.InvalidOperationException: The current type, Common.ISource.ISource_SQLHelper, is an interface and cannot be constructed. Are you missing a type mapping?
+   在 Microsoft.Practices.ObjectBuilder2.DynamicMethodConstructorStrategy.ThrowForAttemptingToConstructInterface(IBuilderContext context)
+   在 BuildUp_Common.ISource.ISource_SQLHelper(IBuilderContext )
+   在 Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   在 Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   在 Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   在 Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name, IEnumerable`1 resolverOverrides)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name, IEnumerable`1 resolverOverrides)
+   在 Microsoft.Practices.Unity.UnityContainer.Resolve(Type t, String name, ResolverOverride[] resolverOverrides)
+   在 Microsoft.Practices.Unity.UnityContainerExtensions.Resolve[T](IUnityContainer container, String name, ResolverOverride[] overrides)
+   在 FWCore.GlobalContext.Resolve[T]()
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.P2PTask() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 49
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 31  WCP2PTask.Execute => NLogUtil.WriteError => NLogImpl.WriteError
+

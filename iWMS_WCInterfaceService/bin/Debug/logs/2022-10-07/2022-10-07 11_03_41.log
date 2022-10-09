@@ -1,0 +1,27 @@
+2022-10-07 11:03:41.6650 ERROR  2209200000005 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:03:42.9526 ERROR  2209200000006 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:03:43.9428 ERROR  2209200000008 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:03:45.0046 ERROR  2209200000009 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:03:46.0291 ERROR  2209210000014 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:03:47.2008 ERROR  起始点或终点库位为空  WCP2PTask.P2PFHTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:06:37.5576 ERROR  移库起始点库存不足  WCP2PTask.FHTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:06:39.9806 ERROR  起始点或终点库位为空  WCP2PTask.FHTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-10-07 11:06:41.6745 ERROR  起始点或终点库位为空  WCP2PTask.FHTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

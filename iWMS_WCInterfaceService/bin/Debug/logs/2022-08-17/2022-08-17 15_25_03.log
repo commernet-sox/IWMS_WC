@@ -1,0 +1,2 @@
+2022-08-17 15:25:03.3822 ERROR  111 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+

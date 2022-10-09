@@ -1,0 +1,28 @@
+2022-07-28 15:28:58.5688 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-07-28 15:29:20.2109 INFO  [
+{
+    "code":"12"
+},
+{
+    "code":"12333"
+    
+}
+    
+    
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-28 15:29:29.1335 INFO  {"code":500,"message":"数据列表为空"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-07-28 15:29:35.5423 INFO  [
+{
+    "code":"12"
+},
+{
+    "code":"12333"
+    
+}
+    
+    
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+

@@ -1,0 +1,10 @@
+2022-08-05 10:04:03.0124 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-08-05 10:04:37.5109 INFO  [{"CategoryCode":"","CategoryName":"111","SpecificationName":"111","ProductLineCode":"111","ProductLineName":"111"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-05 10:04:37.6008 INFO  {"code":"500","message":"物料分类编码不能为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-05 10:04:40.7963 INFO  [{"CategoryCode":"111","CategoryName":"111","SpecificationName":"111","ProductLineCode":"111","ProductLineName":"111"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-05 10:05:08.4988 INFO  {"code":"200","message":"","flag":"success"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+

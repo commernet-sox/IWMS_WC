@@ -1,0 +1,82 @@
+2022-07-25 14:15:02.3469 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-07-25 14:16:31.6300 INFO  {
+    "id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:16:31.6544 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:16:53.8440 INFO  {
+    "ID":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:16:53.8440 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:16:54.5989 INFO  {
+    "ID":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:16:54.5989 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:16:55.1231 INFO  {
+    "ID":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:16:55.1231 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:17:04.4426 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:17:04.4426 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:17:05.0917 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:17:05.0917 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:17:06.9650 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:17:06.9650 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:17:07.3256 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:17:07.3256 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:17:07.4712 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:17:07.4712 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:17:07.6169 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:17:07.6169 INFO  {"Id":23,"Name":"PostASP","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+

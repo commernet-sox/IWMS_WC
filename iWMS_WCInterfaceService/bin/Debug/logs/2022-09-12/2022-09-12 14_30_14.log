@@ -1,0 +1,3 @@
+2022-09-12 14:30:14.1574 ERROR  调用审核存储过程失败:源库位与目标库位不能相同！  WCP2PTask.YKTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

@@ -1,0 +1,8 @@
+2022-09-22 11:08:06.5970 ERROR  System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.P2PTask() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 143
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 68  WCP2PTask.Execute => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

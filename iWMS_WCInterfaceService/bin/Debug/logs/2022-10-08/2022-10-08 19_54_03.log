@@ -1,0 +1,11 @@
+2022-10-08 19:54:03.4005 ERROR  System.Data.SqlClient.SqlException (0x80131904): “=”附近有语法错误。
+   在 FWCore.DbComponent.SQLUtil.ExecuteNonQuery(String strSql)
+   在 Common.DBCore.BusinessDbUtil.ExecuteNonQuery(String sql) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS\Common.DBCore\BusinessDbUtil.cs:行号 531
+   在 Common.Source.Source_SQLHelper.ExecuteNonQuery(String cmdtext) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS\Common.Source\Source_SQLHelper.cs:行号 13
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.FHTask(List`1 FHList, DataTable sLocationtable, DataTable eLocationtable, Boolean IsCompleted, String DeliveryId, Boolean CheckMappingLoc, T_MES_M2PTaskData _OrderData) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 697
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.M2PTask() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 237
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 69
+ClientConnectionId:82c5f9d3-28df-46f9-b634-40df6106bf6f
+Error Number:102,State:1,Class:15  WCP2PTask.Execute => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

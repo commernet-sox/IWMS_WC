@@ -1,0 +1,8 @@
+2022-09-05 14:08:08.3841 ERROR  System.Net.WebException: 远程服务器返回错误: (500) 内部服务器错误。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 iWMS.Core.Http.ApiRequest.GetString(Encoding encoding) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS\iWMS.Core\Http\ApiRequest.cs:行号 108
+   在 iWMS.Core.Http.ApiRequest.GetString() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS\iWMS.Core\Http\ApiRequest.cs:行号 121
+   在 iWMS.WCInterfaceService.Core.ApiFactory.LogResult(ApiRequest request) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Util\ApiFactory.cs:行号 39
+   在 iWMS.WCInterfaceService.Core.Task.MESPointTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\MESPointTask.cs:行号 55
+   在 FWCore.TaskManage.BaseTask.TryExecute(TaskConfig config)  CommonBaseTask.TryExecute => NLogUtil.WriteError => NLogImpl.WriteError
+

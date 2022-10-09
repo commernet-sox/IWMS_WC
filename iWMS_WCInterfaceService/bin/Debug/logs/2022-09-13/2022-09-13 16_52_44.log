@@ -1,0 +1,8 @@
+2022-09-13 16:52:44.8479 ERROR  System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.YKTask(List`1 YKList, DataTable sLocationtable, DataTable eLocationtable, Boolean IsCompleted) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 312
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.P2PTask() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 139
+   在 iWMS.WCInterfaceService.Core.Task.WCP2PTask.Execute(TaskConfig config) 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.WCInterfaceService.Core\Task\WCP2PTask.cs:行号 53  WCP2PTask.Execute => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

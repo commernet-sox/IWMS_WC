@@ -1,0 +1,30 @@
+2022-07-28 15:31:02.7152 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-07-28 15:31:14.4714 INFO  [
+{
+    "code":"12"
+},
+{
+    "code":"12333"
+    
+}
+    
+    
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-28 15:31:26.4119 INFO  {"code":200,"message":""}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-07-28 15:31:48.9078 INFO  [
+{
+    "code":"12"
+},
+{
+    "code":"12333"
+    
+}
+    
+    
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-28 15:31:53.2344 INFO  {"code":200,"message":""}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+

@@ -1,0 +1,5 @@
+2022-09-27 16:23:54.1857 ERROR  System.Net.HttpListenerException (0x80004005): 拒绝访问。
+   在 System.Net.HttpListener.AddAllPrefixes()
+   在 System.Net.HttpListener.Start()
+   在 iWMS.TimerTaskService.Core.WebServerManage.<StartAsync>d__0.MoveNext() 位置 D:\Codes\trunk\iWMS\0-SOURCE\iWMS.API\iWMS.TimerTaskService.Core\WebServerManage.cs:行号 24  <StartAsync>d__0.MoveNext => NLogUtil.WriteError => NLogImpl.WriteError
+

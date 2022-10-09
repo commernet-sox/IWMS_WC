@@ -1,0 +1,31 @@
+﻿{
+    taskId: "2021291110000065",
+    taskType: "10",
+    taskPriority: 10,
+    items: [{
+            bizPlantId: "3200",
+            workshopId: "JYCV101",
+            machineLineId: "JYRT04",
+            orderNo: "3200000120091800001",
+            orderItemId: "1010",
+            batchNo: "NA",
+            skuId: "1400039453",
+            qty: 800.0,
+            unit: "KG",
+            locationId: "",
+            backupStr7: "",
+            backupStr8: "",
+            backupStr9: ""
+        }
+    ],
+    ifEmptyPalletExist: "",
+    emptyPalletPosition: "",
+    palletId: "#11111",
+    sendTime: "2021-11-11 18:23:12",
+    backupStr1: "",
+    backupStr2: "",
+    backupStr3: "",
+    backupStr4: "",
+    backupStr5: "",
+    backupStr6: "",
+}		

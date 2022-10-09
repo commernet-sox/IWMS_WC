@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+
+
+
+
+  <ItemGroup>
+    <None Include="APIRequest.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FWCore.TaskManage\FWCore.TaskManage.csproj" />
+    <ProjectReference Include="..\FWCore\FWCore.csproj" />
+    <ProjectReference Include="..\iWMS.WebAPICore\iWMS.WebAPICore.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="body.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+
+</Project>

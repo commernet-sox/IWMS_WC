@@ -1,0 +1,26 @@
+2022-08-03 11:27:40.5951 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-08-03 11:30:12.8036 INFO  [{"ProductlineCode":"","StationCode":"111","StationName":"111","StationRange":"111","IntervalTime":"11","PassPullStationCode":"222","PassPullAdvanceTime":"11","SequenceNum":"1"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:30:12.8844 INFO  {"code":"500","message":"所属产线编码不能为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 11:30:23.2723 INFO  [{"ProductlineCode":"111","StationCode":"111","StationName":"111","StationRange":"111","IntervalTime":"11","PassPullStationCode":"222","PassPullAdvanceTime":"11","SequenceNum":""}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:30:23.2723 INFO  {"code":"500","message":"顺序号不能为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-03 11:30:28.0896 INFO  [{"ProductlineCode":"111","StationCode":"111","StationName":"111","StationRange":"111","IntervalTime":"11","PassPullStationCode":"222","PassPullAdvanceTime":"11","SequenceNum":"1"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:31:14.6401 ERROR  LogException  <ExecuteExceptionFilterAsyncCore>d__3.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => LogExceptionFilterAttribute.OnException
+
+2022-08-03 11:31:18.2452 INFO  [{"ProductlineCode":"111","StationCode":"111","StationName":"111","StationRange":"111","IntervalTime":"11","PassPullStationCode":"222","PassPullAdvanceTime":"11","SequenceNum":"1"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:31:40.7249 ERROR  LogException  <ExecuteExceptionFilterAsyncCore>d__3.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => LogExceptionFilterAttribute.OnException
+
+2022-08-03 11:32:47.3282 INFO  [{"ProductlineCode":"111","StationCode":"111","StationName":"111","StationRange":"111","IntervalTime":"11","PassPullStationCode":"222","PassPullAdvanceTime":"11","SequenceNum":"1"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:32:58.9050 ERROR  LogException  <ExecuteExceptionFilterAsyncCore>d__3.MoveNext => ExceptionFilterAttribute.OnExceptionAsync => LogExceptionFilterAttribute.OnException
+
+2022-08-03 11:33:15.0663 INFO  [{"ProductlineCode":"111","StationCode":"111","StationName":"111","StationRange":"111","IntervalTime":"11","PassPullStationCode":"222","PassPullAdvanceTime":"11","SequenceNum":"1"}]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-03 11:34:15.9267 INFO  {"code":"200","message":"","flag":"success"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+

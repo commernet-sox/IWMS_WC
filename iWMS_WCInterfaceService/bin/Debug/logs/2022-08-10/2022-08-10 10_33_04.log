@@ -1,0 +1,4 @@
+2022-08-10 10:33:04.6759 ERROR  111 投料单明细未匹配到库位  WCP2PTask.P2PTask => NLogUtil.WriteError => NLogImpl.WriteError
+
+2022-08-10 10:34:51.6729 ERROR  调用审核存储过程失败:源库位与目标库位不能相同！  WCP2PTask.YKTask => NLogUtil.WriteError => NLogImpl.WriteError
+

@@ -1,0 +1,56 @@
+2022-08-04 15:52:38.9067 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-08-04 15:52:46.6616 INFO  [
+    {
+        "DeliverySerial": "",
+        "Status": "10",
+        "Appliance": "WF001",
+        "PullNumber": "20220804001",
+        "MaterialCode": "WC001",
+        "MaterialName": "WC001",
+        "NeedNum": "111",
+        "CarGroupCode": "1001",
+        "CarGroupName": "1001",
+        "ProductLineCode": "CX001",
+        "ProductLineName": "CX001",
+        "PlanDate": "2022-08-03 12:00:00",
+        "FeedingMode": "AGV",
+        "StationCode": "1001",
+        "StationName": "1001",
+        "WaveNum": "1001",
+        "BatchNum": "1001",
+        "FeedingPointCode": "TL001",
+        "FeedingPointName": "TL001",
+        "UtensilTypeCode": "01"
+    }
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-04 15:52:46.7485 INFO  {"code":"500","message":"投料单号不能为空","flag":"failure"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+
+2022-08-04 15:52:50.9085 INFO  [
+    {
+        "DeliverySerial": "20220804001",
+        "Status": "10",
+        "Appliance": "WF001",
+        "PullNumber": "20220804001",
+        "MaterialCode": "WC001",
+        "MaterialName": "WC001",
+        "NeedNum": "111",
+        "CarGroupCode": "1001",
+        "CarGroupName": "1001",
+        "ProductLineCode": "CX001",
+        "ProductLineName": "CX001",
+        "PlanDate": "2022-08-03 12:00:00",
+        "FeedingMode": "AGV",
+        "StationCode": "1001",
+        "StationName": "1001",
+        "WaveNum": "1001",
+        "BatchNum": "1001",
+        "FeedingPointCode": "TL001",
+        "FeedingPointName": "TL001",
+        "UtensilTypeCode": "01"
+    }
+]  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-08-04 15:52:57.9098 INFO  {"code":"200","message":"","flag":"success"}  AsyncTaskMethodBuilder`1.Start => <CallOnActionExecutedAsync>d__6.MoveNext => LogMessageAttribute.OnActionExecutedAsync
+

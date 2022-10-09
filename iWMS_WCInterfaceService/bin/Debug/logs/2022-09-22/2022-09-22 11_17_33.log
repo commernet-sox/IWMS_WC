@@ -1,0 +1,6 @@
+2022-09-22 11:17:33.1854 ERROR  起始点或终点库位为空  WCP2PTask.FHTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+
+2022-09-22 11:18:05.5881 ERROR  起始点或终点库位为空  WCP2PTask.FHTask => NLogUtil.WriteError => NLogImpl.WriteError
+exception:
+

@@ -1,0 +1,18 @@
+2022-07-25 14:18:48.1714 INFO  Application_Start  RuntimeMethodInfo.UnsafeInvokeInternal => RuntimeMethodHandle.InvokeMethod => Global.Application_Start
+
+2022-07-25 14:18:59.5067 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:18:59.5377 INFO  {"Id":23,"Date":"2022-07-25T14:18:59.5177127+08:00","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
+2022-07-25 14:22:48.8415 INFO  {
+    "Id":11,
+    "Name":"ASPDJD"
+    
+}  AsyncTaskMethodBuilder`1.Start => <ExecuteActionFilterAsyncCore>d__5.MoveNext => LogMessageAttribute.OnActionExecutingAsync
+
+2022-07-25 14:22:48.8415 INFO  {"Id":23,"Date":"2022-07-25T14:22:48.8415116+08:00","Data":{"Id":11,"Name":"ASPDJD"}}  ExecutionContext.RunInternal => Task.Execute => SynchronizationHelper.SafeWrapCallback
+
